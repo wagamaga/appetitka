@@ -1,3 +1,11 @@
+Multiservice web application for leading regional food production company, with key functions of forming, managing, storing, editing and sending orders and applications.
+
+Frontend: HTML, CSS, React, Redux, PWA.
+
+Backend: Node.JS, Express, MongoDB, Mongoose.
+
+[http](http://appetitka.herokuapp.com/)
+
 Приложение "Аппетитка"
 
 Сервис для формирования, хранения и отправки заказов "Аппетитка", 
@@ -19,3 +27,5 @@ Backend:
 - Mongoose
 
 Ссылка на сайт: http://appetitka.herokuapp.com/
+
+https://user-images.githubusercontent.com/65451356/127211236-bac9d82d-57b0-4622-946e-aba7f7b47d22.png
