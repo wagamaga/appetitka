@@ -4,7 +4,7 @@ Frontend: HTML, CSS, React, Redux, PWA.
 
 Backend: Node.JS, Express, MongoDB, Mongoose.
 
-[http](http://appetitka.herokuapp.com/)
+http://appetitka.herokuapp.com/
 
 Приложение "Аппетитка"
 
@@ -28,4 +28,4 @@ Backend:
 
 Ссылка на сайт: http://appetitka.herokuapp.com/
 
-https://user-images.githubusercontent.com/65451356/127211236-bac9d82d-57b0-4622-946e-aba7f7b47d22.png
+![Image alt](https://user-images.githubusercontent.com/65451356/127211236-bac9d82d-57b0-4622-946e-aba7f7b47d22.png)
